@@ -9,7 +9,7 @@ One thing that is required within the jupyter notebook is a markdown cell with O
 
 This will be replaced with the markdown version of the table of contents.
 
-This is intended to be used to produce an intermediate notebook before converting to something else like HTML.
+This is intended to be used to produce an intermediate notebook before converting to something else like HTML. As such the output filename is hardcoded as _temp.ipynb.
 
 Usage: 
     gen-toc.py filename.ipynb
