@@ -33,3 +33,15 @@ Included is a `makefile`. Run `make` and it will generate a build directory.
 See the `makefile` for any other targets.
 
 Run `make gh-pages` to build `index.html` which is used for github pages.
+
+
+### Versions
+
+The materials / build tools were used with these versions:
+
+```
+Python 3.11.0
+jupyter-lab 3.6.1
+jupyter-nbconvert 7.2.9
+pandas 1.5.3       # python library
+```
