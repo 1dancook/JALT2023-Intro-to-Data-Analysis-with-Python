@@ -1,6 +1,6 @@
 # JALT2023 Introduction to Data Analysis with Python
 
-*Prepared by [Chris Pirotto](https://www.linkedin.com/in/cpirotto/) and Daniel Cook*
+*Prepared by [Chris Pirotto](https://www.chrispirotte.com) and Daniel Cook*
 
 This repository contains the files used for preparation of distributed materials.
 
