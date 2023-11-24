@@ -10,7 +10,7 @@ This repository contains the files used for preparation of distributed materials
 
 Watch the presentation [here](youtubelink).
 
-If you want to read the material, it's recommended to read the HTML page [here](link).
+If you want to read the material, it's recommended to read the HTML page [here](https://1dancook.github.io/JALT2023-Intro-to-Data-Analysis-with-Python/).
 
 ### Download the Material
 
