@@ -1,14 +1,12 @@
 # JALT2023 Introduction to Data Analysis with Python
 
-*Prepared by [Chris Pirotto](https://www.chrispirotte.com) and Daniel Cook*
+*Prepared by [Chris Pirotto](https://chrispirotto.com) and Daniel Cook*
 
 This repository contains the files used for preparation of distributed materials.
 
 ---
 
-Watch the presentation here. (waiting!)
-
-If you want to read the material, it's recommended to read the HTML page [here](https://1dancook.github.io/JALT2023-Intro-to-Data-Analysis-with-Python/).
+If you want to read through the material, it's recommended to read the HTML page [here](https://1dancook.github.io/JALT2023-Intro-to-Data-Analysis-with-Python/).
 
 ### Download the Material
 
@@ -24,7 +22,7 @@ If you want to use the notebook, you must install python, jupyter notebook (or j
 Read instructions from [Jupyter documentation](https://docs.jupyter.org/en/latest/) for how to open the notebook and use it.
 
 
-### Building the material (macos/linux)
+### Building the material for Distribution (macos/linux)
 
 Requirements are python, jupyterlab, and any python dependencies.
 
@@ -35,7 +33,7 @@ See the `makefile` for any other targets.
 Run `make gh-pages` to build `index.html` which is used for github pages.
 
 
-### Versions
+### Versions of things
 
 The materials / build tools were used with these versions:
 
